@@ -1,0 +1,30 @@
+
+{
+    "phonenumber": "16666666666",
+    "username": "sunnylee",
+    "password": "password123",
+    "domain": "google.ca",
+    "status": false,
+    "features": {
+        "callwaiting": {
+            "provisioned": false
+        }
+    }
+}
+
+{
+    "phoneNumber": "15555555555",
+    "username": "15555555555",
+    "password": "insecure_password_changeme_123",
+    "domain": "ims.mnc555.mcc444.3gppnetwork.org",
+    "status": true,
+    "features": {
+        "callWaiting": {
+            "provisioned": true
+        },
+        "callForwardNoReply": {
+            "provisioned": true,
+            "destination": "tel:+15557777777"
+        }
+    }
+}
