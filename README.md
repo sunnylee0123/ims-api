@@ -1,1 +1,1 @@
-# ying-api
+# ims-api for Ying
